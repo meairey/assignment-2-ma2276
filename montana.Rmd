@@ -1,0 +1,18 @@
+---
+title: "Montana"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+About me! 
+
+- I grew up in Massachusetts 
+- My favorite fall pie is Chess Pie
+- I have a border collies named Felix
+- I grew up with a bearded collie, Corey
+
+![Hearding dogs are the best](C:\Users\monta\OneDrive - Airey Family\Photos\2019 Winter\IMG_6509 (2).jpg)
+
