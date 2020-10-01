@@ -17,37 +17,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![Sweater weather is here!](https://i.cbc.ca/1.5539888.1587752449!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/prickles-the-tasmanian-sheep.jpg)
 
-## Next section for TOC
 
-Here is text that we will have to scroll through
-<br>
-
-More text
-
-<br>
-
-These are split up by blank lines
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Header 2
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Another subheader
