@@ -1,14 +1,53 @@
 ---
 title: "Index"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-Owner: Montana - [link to github account](https://github.com/meairey)
+## Contributers to this website
+### Owner: Montana - [link to github account](https://github.com/meairey)
 <br>
-Collaborator: Steph - [link to github account](https://github.com/sfigary)
+
+### Collaborator: Steph - [link to github account](https://github.com/sfigary)
 
 ![Sweater weather is here!](https://i.cbc.ca/1.5539888.1587752449!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/prickles-the-tasmanian-sheep.jpg)
+
+## Next section for TOC
+
+Here is text that we will have to scroll through
+<br>
+
+More text
+
+<br>
+
+These are split up by blank lines
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Header 2
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Another subheader

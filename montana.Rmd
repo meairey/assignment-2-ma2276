@@ -1,6 +1,8 @@
 ---
 title: "Montana"
-output: html_document
+output: 
+  html_document:
+    theme: journal
 ---
 
 ```{r setup, include=FALSE}
@@ -16,3 +18,12 @@ About me!
 
 ![Hearding dogs are the best](C:\Users\monta\OneDrive - Airey Family\Photos\2019 Winter\IMG_6509 (2).jpg)
 
+[image](/images/IMG_6508)
+
+## Photographs {.tabset .tabset-fade .tabset-pills}
+
+### Massachusetts 
+This is infomration
+
+### 2nd something
+This is more infrmation
