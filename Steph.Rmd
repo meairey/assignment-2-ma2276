@@ -1,0 +1,12 @@
+---
+title: "Steph"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I am a second year PhD student in DNRE.
+* I have two cats, Porch and Squiggles.
+* I enjoy running, hiking and yoga.
