@@ -5,4 +5,5 @@ navbar:
       href: index.html
     - text: "Montana"
       href: montana.html
-    
+    - text: "Steph"
+      href: steph.html 
